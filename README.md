@@ -1,3 +1,3 @@
-# MarkDown-Files (EAS 503)
+#EAS 503 Weekly Assignment MarkDown-Files
 
 Basic Python practice.
